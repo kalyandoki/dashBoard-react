@@ -9,9 +9,9 @@
 }
 .dash-container {
   border: 1px solid rgb(195, 192, 192);
-  width: 15%;
-  padding: 10px;
-  height: 100vh;
+  width: 20%;
+  padding: 15px;
+  height: 98.7vh;
   background-color: #ffffff;
   background-size: cover;
   font-size: 15px;
@@ -24,8 +24,8 @@
   color: rgb(159, 70, 223);
   background-color: rgb(222, 204, 221);
   font-weight: 600;
-  width: 180px;
-  padding: 10px;
+  width: 200px;
+  padding: 8px;
   border-radius: 10px;
 }
 .list-of-names {
@@ -59,4 +59,83 @@
   flex-direction: row;
   gap: 10px;
   align-items: center;
+}
+.dash-icons {
+  color: #603e9d;
+  font-size: 40px;
+  font-weight: bold;
+  padding-right: 7px;
+}
+.min-dash-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.dash-icons-small {
+  color: #637680;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-i {
+  color: #042c2ceb;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-o {
+  color: #4ad95bf4;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-r {
+  color: #3142d5f2;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-c {
+  color: #e4c64df0;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-s {
+  color: #68cadef1;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-ch {
+  color: #db50deda;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-in {
+  color: #3bbda1e2;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+.dash-icons-small-ca {
+  color: #182440f0;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.dash-icons-small-re {
+  color: #c2164af0;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.dash-icons-small-ac {
+  color: #2751b2f0;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px;
 }

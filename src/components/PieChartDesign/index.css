@@ -1,0 +1,38 @@
+.pie {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10px;
+}
+.store-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 400px;
+  padding: 5px;
+  margin-left: 20px;
+}
+.store {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  width: 200px;
+  padding: 5px;
+}
+.box {
+  color: #213fd9;
+  background-color: #213fd9;
+  height: 10px;
+  width: 10px;
+  border: 1px solid black;
+}
+.box-2 {
+  color: hsl(7, 87%, 55%);
+  background-color: hsl(7, 87%, 55%);
+  height: 10px;
+  width: 10px;
+  border: 1px solid black;
+}

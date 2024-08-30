@@ -1,7 +1,7 @@
 import { IoMdInformationCircleOutline } from "react-icons/io";
 import "./index.css";
 import GraphChart from "../GraphChart";
-import Pie from "../Pie";
+import PieChartDesign from "../PieChartDesign";
 
 function Graph() {
   return (
@@ -28,7 +28,7 @@ function Graph() {
             </div>
             <hr />
             <div className="graph-pie-2">
-              <Pie />
+              <PieChartDesign />
             </div>
           </div>
         </div>
