@@ -1,0 +1,62 @@
+* {
+  margin: 0px;
+}
+.dashboard-main-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+.dash-container {
+  border: 1px solid rgb(195, 192, 192);
+  width: 15%;
+  padding: 10px;
+  height: 100vh;
+  background-color: #ffffff;
+  background-size: cover;
+  font-size: 15px;
+  gap: 5px;
+  font-family: "Robboto";
+  font-style: "consolas", sans-serif;
+}
+.dash {
+  font-size: 20px;
+  color: rgb(159, 70, 223);
+  background-color: rgb(222, 204, 221);
+  font-weight: 600;
+  width: 180px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.list-of-names {
+  font-size: 20px;
+  color: rgb(137, 134, 134);
+  padding: 10px;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.list-of-names-sel {
+  font-size: 20px;
+  color: rgb(137, 134, 134);
+  padding: 5px;
+  font-weight: 600;
+  width: 200px;
+  border: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.opt {
+  font-family: "Robboto";
+  font-style: "consolas", sans-serif;
+}
+.image {
+  width: 40px;
+  border-radius: 50%;
+}
+.dashboard-line {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+}
